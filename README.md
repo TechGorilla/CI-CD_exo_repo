@@ -1,5 +1,3 @@
-# Challenge 9 - Setting an IaC from scratch
-
 # Situation
 As DevOps Engineer you are part of a team building an application which consists of a Java backend and a React frontend. As the expert of the team in cloud and automation, you are supposed to lead	the	way	orchestrating and deploying the application to the cloud.
 For	the	purpose	of	this assignment, we	have provided you with an attachment that contains a simple application	with the mentioned components plus an in-memory	database (it can remain	in	
